@@ -1,6 +1,4 @@
-<?php 
-
-phpinfo();
+<?php
 
 use App\Repository\TranslationRepository;
 
